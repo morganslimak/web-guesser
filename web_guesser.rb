@@ -1,6 +1,5 @@
 require 'sinatra'
 require 'sinatra/reloader'
-require 'pry'
 
 NUMBER = rand(101)
 
